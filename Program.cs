@@ -6,6 +6,7 @@ namespace testconsole
     {
         static void Main(string[] args)
         {
+			Console.WriteLine("Hi All!");
             Console.WriteLine("Hello World!");
         }
     }
